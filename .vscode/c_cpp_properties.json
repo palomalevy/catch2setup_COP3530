@@ -6,11 +6,11 @@
       "compilerPath": "/usr/bin/g++",
       "intelliSenseMode": "linux-gcc-x64",
       "cppStandard": "c++17",
-      "cStandard": "c11",
       "includePath": [
         "${workspaceFolder}/**",
         "/usr/include",
-        "/usr/local/include"
+        "/usr/local/include",
+        "/usr/include/catch2"
       ]
     }
   ]
